@@ -3,7 +3,7 @@ Contributors: rmccue
 Tags: test, plugin  
 Requires at least: 3.1  
 Tested up to: 3.3  
-Stable tag: 0.1  
+Stable tag: 0.2  
 
 Here is a short description of the plugin.  This should be no more than
 150 characters.  No markup here.
