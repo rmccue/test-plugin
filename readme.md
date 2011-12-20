@@ -1,4 +1,4 @@
-=== Test Plugin ===
+=== Test Plugin ===  
 Contributors: rmccue  
 Tags: test, plugin  
 Requires at least: 3.1  
@@ -26,4 +26,5 @@ None yet!
 == Changelog ==
 
 = 0.1 =
+
 * Create plugin
