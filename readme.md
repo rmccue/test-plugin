@@ -13,9 +13,6 @@ Here is a short description of the plugin.  This should be no more than
 This is the long description.  No limit, and you can use Markdown (as
 well as in the following sections).
 
-For backwards compatibility, if this section is missing, the full
-length of the short description will be used, and Markdown parsed.
-
 == Installation ==
 
 1. Upload `test-plugin/` to the `/wp-content/plugins/` directory
