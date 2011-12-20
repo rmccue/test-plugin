@@ -25,6 +25,14 @@ None yet!
 
 == Changelog ==
 
+= 0.3 =
+
+* Be awesome
+
+= 0.2 =
+
+* Remove useless comment
+
 = 0.1 =
 
 * Create plugin
